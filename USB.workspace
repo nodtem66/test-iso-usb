@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="USB" Database="">
+  <Project Name="test_iso" Path="test_iso/test_iso.project" Active="No"/>
+  <Project Name="test_iso_libusbK" Path="test_iso_libusbK/test_iso_libusbK.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Project Name="test_iso" ConfigName="Debug"/>
+      <Project Name="test_iso_libusbK" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="yes">
+      <Project Name="test_iso" ConfigName="Release"/>
+      <Project Name="test_iso_libusbK" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
